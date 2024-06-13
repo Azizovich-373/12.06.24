@@ -126,5 +126,5 @@ function setTimer(endTime, selector) {
     updateTimer();
 }
 
-setTimer(newyear, '.one');
-setTimer(deadline, '.two');
+setTimer(newyear, '.timer.one');
+setTimer(deadline, '.timer.two');
